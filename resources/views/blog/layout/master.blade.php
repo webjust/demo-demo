@@ -49,7 +49,7 @@
             </div>
             <div class="col-sm-4">
                 <nav class="blog-nav blog-login">
-                    <a class="blog-nav-item" href="./reg.html">注册</a>
+                    <a class="blog-nav-item" href="{{route('reg')}}">注册</a>
                     <a class="blog-nav-item" href="{{route('login')}}">登录</a>
                 </nav>
             </div>
@@ -60,7 +60,7 @@
 <div class="container">
 
     <div class="blog-header">
-        <h1 class="blog-title"><a href="./index.html">我的博客</a></h1>
+        <h1 class="blog-title"><a href="{{url('blog')}}">我的博客</a></h1>
         <p class="lead blog-description">需要SEO服务、顾问和培训的公司欢迎找我</p>
     </div>
 

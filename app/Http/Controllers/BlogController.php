@@ -30,4 +30,14 @@ class BlogController extends Controller
     {
         return view('blog.show');
     }
+
+    public function user()
+    {
+        return view('blog.user');
+    }
+
+    public function reg()
+    {
+        return view('blog.reg');
+    }
 }

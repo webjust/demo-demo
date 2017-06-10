@@ -10,7 +10,7 @@
 
         <div class="blog-post">
             <h2 class="blog-post-title"><a href="{{url('blog/show')}}">用户访问数据是否影响搜索排名？</a></h2>
-            <p class="blog-post-meta">发表于 2017年03月16日 by <a href="./user.html">Mark</a></p>
+            <p class="blog-post-meta">发表于 2017年03月16日 by <a href="{{url('blog/user')}}">Mark</a></p>
             <p>搜索工程师都明确否认用户访问和行为数据是排名的直接因素。而我们SEO观察到的情况是，用户访问和行为至少会间接影响页面排名。</p>
             <hr>
             <p>用户访问数据是否影响页面的搜索排名？这是个老话题。早在11年前，我就在SEO每天一贴写过Google可能在排名算法中考虑用户行为方式。</p>
@@ -22,7 +22,7 @@
 
         <div class="blog-post">
             <h2 class="blog-post-title"><a href="{{url('blog/show')}}">用户访问数据是否影响搜索排名？</a></h2>
-            <p class="blog-post-meta">发表于 2017年03月16日 by <a href="./user.html">Mark</a></p>
+            <p class="blog-post-meta">发表于 2017年03月16日 by <a href="{{url('blog/user')}}">Mark</a></p>
             <p>搜索工程师都明确否认用户访问和行为数据是排名的直接因素。而我们SEO观察到的情况是，用户访问和行为至少会间接影响页面排名。</p>
             <hr>
             <p>用户访问数据是否影响页面的搜索排名？这是个老话题。早在11年前，我就在SEO每天一贴写过Google可能在排名算法中考虑用户行为方式。</p>
@@ -34,7 +34,7 @@
 
         <div class="blog-post">
             <h2 class="blog-post-title"><a href="{{url('blog/show')}}">用户访问数据是否影响搜索排名？</a></h2>
-            <p class="blog-post-meta">发表于 2017年03月16日 by <a href="./user.html">Mark</a></p>
+            <p class="blog-post-meta">发表于 2017年03月16日 by <a href="{{url('blog/user')}}">Mark</a></p>
             <p>搜索工程师都明确否认用户访问和行为数据是排名的直接因素。而我们SEO观察到的情况是，用户访问和行为至少会间接影响页面排名。</p>
             <hr>
             <p>用户访问数据是否影响页面的搜索排名？这是个老话题。早在11年前，我就在SEO每天一贴写过Google可能在排名算法中考虑用户行为方式。</p>

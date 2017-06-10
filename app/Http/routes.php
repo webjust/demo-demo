@@ -8,7 +8,9 @@ Route::get('/', function () {
 Route::get('blog', 'BlogController@index');
 Route::get('blog/list', 'BlogController@list');
 Route::get('blog/show', 'BlogController@show');
+Route::get('blog/user', 'BlogController@user');
 
+Route::get('blog/reg', ['as'=>'reg', 'uses'=>'BlogController@reg']);
 Route::get('blog/login', ['as'=>'login', 'uses'=>'BlogController@login']);
 
 
